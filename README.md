@@ -1,3 +1,7 @@
+# Business Analyst Case Study: Legacy Data Migration
+
+_A project focused on ensuring traceability, compliance, and access during legacy system decommissioning._
+
 # Legacy System Data Migration to Internal Archive
 
 ## Overview  
