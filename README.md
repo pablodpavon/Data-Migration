@@ -77,4 +77,14 @@ Anyone working on data migration from legacy systems—especially in regulated s
 
 - Understand how to structure business-led migration  
 - Design compliance-aligned validation rules  
-- Collaborate with technical teams while maintaining functional clarity  
+- Collaborate with technical teams while maintaining functional clarity
+
+- ## About this Project
+
+This case study is part of my professional portfolio as a Business Analyst specialized in data-driven initiatives, digital transformation, and cross-functional documentation for enterprise systems.
+
+If you’d like to discuss this project or others in more detail, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pablo-damian-pavon).
+
+**Tags:** `#BusinessAnalysis` `#DataMigration` `#LegacySystems` `#Compliance` `#DigitalTransformation`
+
+
